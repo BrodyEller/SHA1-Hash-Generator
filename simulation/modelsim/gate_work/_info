@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/viper/Documents/Quartus Workspace/SHA1Hasher_v2/simulation/modelsim
+vhard_block
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1544937249
+!i10b 1
+!s100 6`O_jK6gCOcK<72kecTF=2
+I@FjmDnI9CJ9UK<WB5kmKd2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 SHA1Hasher_v2_svo_unit
+S1
+R0
+Z5 w1544936990
+Z6 8SHA1Hasher_v2.svo
+Z7 FSHA1Hasher_v2.svo
+L0 1144
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1544937249.000000
+Z10 !s107 SHA1Hasher_v2.svo|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+.|SHA1Hasher_v2.svo|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+.
+Z14 tCvgOpt 0
+vSHA1Hasher_v2
+R1
+R2
+!i10b 1
+!s100 jCjGRT8Jeozic]n_Ka3:M3
+I3[aW`UkUGO=Hm4@0ShVdZ3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 31
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@s@h@a1@hasher_v2
